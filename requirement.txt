@@ -1,5 +1,4 @@
 mnemonic
 eth_account
 bip32
-binascii
 requests
