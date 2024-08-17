@@ -1,5 +1,5 @@
-import mnemonic
-from eth_account import Account
-from bip32 import BIP32
-import binascii
-import requests
+mnemonic
+eth_account
+bip32
+binascii
+requests
